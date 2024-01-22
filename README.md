@@ -1,4 +1,5 @@
 **Bank Churn Prediction Analysis**
+
 The Bank Churn Prediction and Analysis project leverage advanced data analytics and visualization techniques to examine customer behavior and predict churn within a leading financial institution. The dataset, comprising customer attributes such as credit score, geography, gender, age, tenure, balance, and activity metrics, is meticulously analyzed to uncover patterns and insights.
 
 Key objectives include understanding the impact of variables like tenure, number of bank products, and customer activity on churn rates. Various visualizations, including bar charts, scatter plots, and line charts, are employed to explore relationships and trends in customer behavior.
